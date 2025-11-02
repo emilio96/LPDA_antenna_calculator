@@ -1,0 +1,80 @@
+Inserire valore inferiore intervallo frequenze: [MHz]
+790
+
+Inserire valore superiore intervallo frequenze: [MHz]
+2615
+
+Il rapporto BP e': 3.31013
+
+Determinare l'angolo che si vuole dare agli elementi dell'antenna (angolo riferito a meta' sezione).
+Il valore deve essere compreso tra 4-25 gradi. Piu' e' ampio l'angolo meno elementi avra' l'antenna.
+DEVE ESSERE UN NUMERO INTERO
+11
+
+Inserire il valore di tau. Deve essere compreso tra 0.84 e 0.98
+ (scegliendo 0.84 si avra' un'antenna con pochi elementi ma molto lunga, scegliendo 0.98 si avra' un'antenna piu' corta ma con piu' elementi)
+Si consiglia un valore tra 0.88 e 0.94
+0.94
+
+Valori inseriti: 0.94 11gradi
+
+Il fattore k e': 1.243
+
+Il fattore BS e': 4.11449
+
+La lunghezza totale dell'asta di supporto deve essere: 35.4915cm
+
+L'antenna e' formata da 24 elementi per lato.
+
+La distanza tra il centro del primo elemento e dell'ultimo e': 35.5893cm.
+
+Le lunghezze dei 24 semidopoli sono:
+Elemento 0: 9.11392cm  v
+Elemento 1: 8.56709cm  v
+Elemento 2: 8.05306cm  v
+Elemento 3: 7.56988cm  v
+Elemento 4: 7.11569cm  v
+Elemento 5: 6.68875cm  v
+Elemento 6: 6.28742cm  v
+Elemento 7: 5.91018cm  v
+Elemento 8: 5.55556cm  v
+Elemento 9: 5.22223cm  v
+Elemento 10: 4.9089cm  v
+Elemento 11: 4.61436cm v
+Elemento 12: 4.3375cm  v
+Elemento 13: 4.07725cm v
+Elemento 14: 3.83262cm v
+Elemento 15: 3.60266cm v
+Elemento 16: 3.3865cm  v
+Elemento 17: 3.18331cm v
+Elemento 18: 2.99231cm v
+Elemento 19: 2.81277cm v
+Elemento 20: 2.64401cm v
+Elemento 21: 2.48537cm v
+Elemento 22: 2.33624cm v
+Elemento 23: 2.19607cm v
+
+Le distanze tra i semidipoli sono:
+Distanza tra 0 ed 1 : 28.1322mm   v
+Distanza tra 1 ed 2 : 26.4443mm   v
+Distanza tra 2 ed 3 : 24.8577mm	  v		
+Distanza tra 3 ed 4 : 23.3662mm   v
+Distanza tra 4 ed 5 : 21.9642mm   v
+Distanza tra 5 ed 6 : 20.6464mm   v
+Distanza tra 6 ed 7 : 19.4076mm   v
+Distanza tra 7 ed 8 : 18.2431mm   v
+Distanza tra 8 ed 9 : 17.1485mm   v
+Distanza tra 9 ed 10 : 16.1196mm  v
+Distanza tra 10 ed 11 : 15.1525mm v
+Distanza tra 11 ed 12 : 14.2433mm v
+Distanza tra 12 ed 13 : 13.3887mm v
+Distanza tra 13 ed 14 : 12.5854mm v
+Distanza tra 14 ed 15 : 11.8303mm  v
+Distanza tra 15 ed 16 : 11.1204mm  v
+Distanza tra 16 ed 17 : 10.4532mm  v
+Distanza tra 17 ed 18 : 9.82603mm  v
+Distanza tra 18 ed 19 : 9.23646mm  v
+Distanza tra 19 ed 20 : 8.68228mm  v
+Distanza tra 20 ed 21 : 8.16134mm  v
+Distanza tra 21 ed 22 : 7.67166mm  v
+Distanza tra 22 ed 23 : 7.21136mm  v
