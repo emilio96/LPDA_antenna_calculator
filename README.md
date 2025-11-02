@@ -16,13 +16,13 @@ This repository also includes a complete, buildable example project for a 790-26
 ### 1. Compile the Code
 This is a standard C++ program with no external dependencies. You can compile it with any C++ compiler, such as `g++`:
 In the LPDA_code folder you can find also the .exe file ready to be executed.
-# Compile the program
+### Compile the program
 g++ LPDA_Calculator.cpp -o LPDA_Calculator
 
 Run the compiled executable from your terminal:
-# On Windows
+### On Windows
 .\LPDA_Calculator.exe
-# On macOS / Linux
+### On macOS / Linux
 ./LPDA_Calculator
 
 ### 3. Enter Your Parameters
@@ -41,7 +41,8 @@ The calculator will then print a complete list of all element lengths and their 
 ### Project Files
 LPDA_Calculator.cpp: The main C++ source code for the calculator.
 /3Dfiles/: A folder containing NuovaLPDA.txt, an example output file for a specific antenna (790-2615 MHz), and a 3D-printable .stl file.
-    This part act as a "skeleton" to: 
-      1.Hold the two conductive support booms at the correct distance.
-      2.Provide perfectly angled guides for soldering the copper wire elements.
-    This makes it much easier to accurately construct the antenna based on the specifications from the calculator.
+This part act as a "skeleton" to: 
+1. Hold the two conductive support booms at the correct distance.
+2. Provide perfectly angled guides for soldering the copper wire elements.
+
+This makes it much easier to accurately construct the antenna based on the specifications from the calculator.
